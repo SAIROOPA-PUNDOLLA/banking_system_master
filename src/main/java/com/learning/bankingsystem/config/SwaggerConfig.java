@@ -16,11 +16,11 @@ import io.swagger.v3.oas.annotations.servers.Server;
                 summary = "API functionalities for TEMS",
                 termsOfService = "T&C",
                 contact = @Contact(
-                        name = "Mounika",
-                        email = "bellammounika158@gmail.com"
+                        name = "Sairoopa",
+                        email = "pundollasairoopa6@gmail.com"
                 ),
                 license = @License(
-                        name = "abcd"
+                        name = "Sai"
                 ),
                 version = "v3"
 

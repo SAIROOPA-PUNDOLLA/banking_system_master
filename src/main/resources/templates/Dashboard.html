@@ -101,11 +101,11 @@
 
 
     function approveUser(userId) {
-        apiCall(userId, 'APPROVED');
+        apiCall(userId, 'APPROVE');
     }
 
     function declineUser(userId) {
-        apiCall(userId, 'DECLINED');
+        apiCall(userId, 'DISAPPROVE');
     }
 
     function apiCall(userId, type) {
